@@ -7438,7 +7438,7 @@ body #features-page .subsection3 .left-section .section-heading .subheading, bod
 }
 body #features-page .subsection3 .left-section .subfeature h1 {
 	color: #fff;
-	font-size: 50px;
+	font-size: 34px;
 	line-height: 75px;
 }
 @media screen and (max-width: 1024px) {
@@ -7556,7 +7556,7 @@ body #features-page .subsection4 .pricing-plan .pricing-price span.pricing-per {
 	display: block;
 	opacity: 0.6;
 	padding: 0 0 24px 0;
-	margin: 0;
+	margin: 18px;
 	color: #fff;
 }
 body #features-page .subsection4 .pricing-plan .pricing-signup {
