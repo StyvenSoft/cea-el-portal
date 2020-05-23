@@ -6104,6 +6104,12 @@ body .navbar-inverse .navbar-brand {
 	width: 70%;
 	padding: 15px 10px;
 }
+body .navbar-inverse .navbar-brand h1{
+	font-size: 23px;
+}
+body header.sticky .navbar-brand h1 {
+    font-size: 24px;
+}
 }
 body #myCarousel .carousel {
 	height: 600px;
